@@ -1,3 +1,35 @@
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.x-04599C?logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-12+-3DDC84?logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-15+-000000?logo=apple&logoColor=white)
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Release](https://img.shields.io/badge/release-stable-blue)
+![Null Safety](https://img.shields.io/badge/null_safety-enabled-success)
+![Platform](https://img.shields.io/badge/platform-Android_|_iOS-lightgrey)
+
+![VS Code](https://img.shields.io/badge/VS_Code-Setup-blue?logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-Setup-green?logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Integrated-FFCA28?logo=firebase&logoColor=black)
+
+![Riverpod](https://img.shields.io/badge/State_Management-Riverpod-blue)
+![GetX](https://img.shields.io/badge/State_Management-GetX-8B5CF6)
+![Bloc](https://img.shields.io/badge/State_Management-BLoC-3E7FFF)
+![HTTP](https://img.shields.io/badge/API-http-orange)
+![Dio](https://img.shields.io/badge/API-dio-blue)
+![Intl](https://img.shields.io/badge/Intl-Formatting-yellow)
+
+![Linter](https://img.shields.io/badge/Linter-Active-blue)
+![Unit Test](https://img.shields.io/badge/Unit_Test-Passed-brightgreen)
+![Coverage](https://img.shields.io/badge/Coverage-80%25+-success)
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Status](https://img.shields.io/badge/status-Production_Ready-brightgreen)
+![Last Update](https://img.shields.io/badge/Last_Update-Today-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 # Point of Sales (POS) & Stock Management System  
 📦 *Built with Flutter & Dart • Multi‑Platform • Multi‑Language*
 
