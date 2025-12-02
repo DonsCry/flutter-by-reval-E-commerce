@@ -79,6 +79,7 @@ Welcome to **Point of Sales (POS) & Stock Management System** — a powerful, sl
 - Developed using Android Studio & VS Code.  
 - Built in Flutter & Dart for modular, maintainable code.
 
+pw : uFtQ0d9+84o=
 ---
 
 ## 💡 Getting Started
